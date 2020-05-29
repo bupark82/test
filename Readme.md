@@ -3,6 +3,10 @@
 ## 1주차 과제 (2020.05.21)
 
 - [인공지능 사례 분석 ](https://github.com/bupark82/gj-assignments-guide/blob/master/1%EC%A3%BC%EC%B0%A8.ipynb)
+  * 언어
+  * 음성
+  * 이미지
+  * 자율주행
 
 ## 2주차 과제 (2020.05.28)
 
